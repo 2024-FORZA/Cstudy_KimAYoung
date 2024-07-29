@@ -22,6 +22,7 @@
         printf("%d", cnt);
     }
 }
+
 int main()
 {
     int N;
